@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, Sans-Serif;
+    font-size: 15px;
+    color: green;
+}
+li{
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+a {color: red;
+text-decoration: none;}
+
+a:hover{
+    text-decoration: underline; 
+}
+
+/* a:visited{
+    color: blue;
+} */
+
+.resumelistheading{
+    font-weight: bold;
+    font-style: normal;
+}
+.underline{ text-decoration: underline;}
+.justify{text-align: justify;}
+.bold{font-weight: bold;}
+
+.homebg {
+    background-image: url('../Logan\ suit.jpeg');
+    background-position: top left
+    
+}
+.resumebg {background-color: pink;}
+
+.box1{
+    border-width: 1px;
+    border-style: solid;
+
+    border: 1px solid blue;
+}
+.box2{
+    padding: 5px;
+}
+.box3{
+    margin: 50px
+}
